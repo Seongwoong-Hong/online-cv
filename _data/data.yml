@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Seongwoong Hong
+  tagline: Postdoctoral Researcher | Robotics, AI, Biomechanics
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
+  email: seongwoong.hong@email.com
+  phone: 
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: 
+  linkedin: seongwoong-hong
+  xing: 
+  github: Seongwoong-Hong
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: 
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,14 +37,11 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Korean
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: English
+      level: 
 
   interests:
     title: Interests
@@ -73,9 +70,9 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Ph. D. in Mechanical Engineering
+    university: Korea Advanced Institute of Science and Technology
+    time: 2019 - 2025
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,9 +81,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: B.S. in Mechanical Engineering
+    university: Korea Advanced Institute of Science and Technology
+    time: 2015 - 2019
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -227,10 +224,10 @@ publications:
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: Biomechanical optimization and reinforcement learning provide insight into transition from ankle to hip strategy in human postural control
+    link: "https://doi.org/10.1038/s41598-025-97637-5"
+    authors: Seongwoong Hong, and Sukyung Park
+    conference: Scientific Reports, 2025
 
   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     link: "#"
