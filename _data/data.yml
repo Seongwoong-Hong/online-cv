@@ -144,14 +144,15 @@ publications:
     link: "https://doi.org/10.1038/s41598-025-97637-5"
     authors: Seongwoong Hong, and Sukyung Park
     conference: Scientific Reports, 2025
-  
+
+publications:
   title: International CONFERENCES
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-  - title: Learning Human Postural Strategies: Reinforcement Learning Approach Incorporating a CoP Constraint
+  - title: Learning Human Postural Strategies Reinforcement Learning Approach Incorporating a CoP Constraint
     authors: Seongwoong Hong, and Sukyung Park
     conference: International Society of Biomechanics, 2025, Oral Presentation
     
@@ -163,6 +164,7 @@ publications:
     authors: Seongwoong Hong, Jung Kim, and Sukyung Park
     conference: International Society of Biomechanics, 2021, Poster Presentation
 
+publications:
   title: domestic CONFERENCES
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
@@ -173,7 +175,7 @@ publications:
     authors: Seongwoong Hong, and Sukyung Park
     conference: Korea Society of Mechanical Engineering, 2024, Oral Presentation
     
-  - title: Postural Control Transition: Learning Control Objective Priority Shifts induced by Constraints
+  - title: Postural Control Transition Learning Control Objective Priority Shifts induced by Constraints
     authors: Seongwoong Hong, and Sukyung Park
     conference: Korea Society of Biomechanics, 2024, Oral Presentation
     
@@ -181,7 +183,7 @@ publications:
     authors: Seongwoong Hong, and Sukyung Park
     conference: Korea Society of Mechanical Engineering - Biomechanics Section, 2024, Oral Presentation
 
-  - title: Learning by Doing?: Mimicking Human Postural Control using Reinforcement Learning
+  - title: Learning by Doing? Mimicking Human Postural Control using Reinforcement Learning
     authors: Seongwoong Hong, and Sukyung Park
     conference: Korea Society of Biomechanics, 2023, Oral Presentation
     
