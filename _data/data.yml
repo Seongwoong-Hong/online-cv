@@ -67,45 +67,38 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: Ph. D. in Mechanical Engineering
+  - degree: Ph.D. in Mechanical Engineering
     university: Korea Advanced Institute of Science and Technology
     time: 2019 - 2025
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Humans exhibit complex control mechanisms involving adaptive strategy selection in response to environmental changes.
+      Explaining this adaptive process is essential for understanding and predicting the principles of human movement.
+      This study aims to demonstrate that such control adaptation during upright postural control can be explained
+      from the perspective of optimizing goals composed of relevant biomechanical elements. To this end, an optimization 
+      objective function incorporating biomechanical constraints was established, and a control model was developed and
+      trained with a reinforcement-learning algorithm. This model successfully reproduced the control transition,
+      regulating ankle-hip strategy use according to perturbation magnitude. This demonstrates that adaptive strategy 
+      selection can emerge from the optimization of relevant biomechanical elements in response to environmental changes. 
+      Consequently, this study suggests that the control transition phenomenon observed in human systems, where appropriate 
+      strategies are selected based on the external environment, can be explained as a process of optimizing biomechanical 
+      goals and constraints.
   - degree: B.S. in Mechanical Engineering
     university: Korea Advanced Institute of Science and Technology
     time: 2015 - 2019
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Bullet point Graduation with honors: cum laude
 
 experiences:
-  title: Experiences
+  title: Research Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - title: Development of high-precision performance measurement technology and sports tracker utilizing integrated technology of precision GPS and inertial sensor
+    role: Lead Developer
+    link: "#https://github.com/Seongwoong-Hong/Behaviour-Classification"
+    time: 2019 - 2020
+    company: KAIST
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      Developed a multi-modal AI model for human activity classification
+      in real-world environments, utilizing fused data from IMU and GPS sensors
         - Bullet point
         - Bullet point
   - role: Senior Software Engineer
@@ -130,47 +123,6 @@ experiences:
       pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
-
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects
