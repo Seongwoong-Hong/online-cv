@@ -15,10 +15,10 @@ sidebar:
   # Sidebar links
   email: seongwoong.hong@email.com
   phone: 
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: 
-  linkedin: seongwoong-hong
+  linkedin: Seongwoong-Hong
   xing: 
   github: Seongwoong-Hong
   telegram: # add your nickname without '@' sign
@@ -41,32 +41,29 @@ sidebar:
       level: Native
 
     - idiom: English
-      level: 
+      level: Intermediate
 
   interests:
     title: Interests
     info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
     - item: Cooking
       link:
 
+    - item: Food Pairing
+      link:
+
+    - item: Running
+      link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    A highly motivated Ph.D. candidate in Mechanical Engineering, graduating in August 2025,
+    specializing in the application of AI and reinforcement learning to robotics and biomechanics.
+    Proven experience in developing novel control systems by integrating real-world physical
+    constraints into AI models, bridging the gap between theory and practical application.
+    Actively seeking a postdoctoral research position to contribute to innovative projects at the
+    intersection of AI-driven robotics and human-centered systems.
 education:
   title: Education
   info:
@@ -180,42 +177,9 @@ projects:
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: Teaching Assistant for Capstone Design Lecture at KAIST
+    link: "#https://github.com/Seongwoong-Hong/KAIST_ME401_practice"
+    tagline: "A basic practice for Python and Pytorch"
 
 publications:
   title: Publications
@@ -229,55 +193,24 @@ publications:
     authors: Seongwoong Hong, and Sukyung Park
     conference: Scientific Reports, 2025
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
-
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Biomechanical Modeling & Analysis
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: AI & Reinforcement Learning
     level: 98%
 
-  - name: Angular
+  - name: Python & MATLAB
     level: 98%
 
-  - name: HTML5 & CSS
+  - name: Physics Simulation (MuJoCo, Isaac Gym)
     level: 95%
 
-  - name: Ruby on Rails
+  - name: Experimental Biomechanics (Motion Capture, IMU, )
     level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
