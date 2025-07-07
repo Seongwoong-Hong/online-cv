@@ -1,0 +1,48 @@
+{% assign recommendations = site.data.data.recommendations %} {% if recommendations %}
+<section class="section certifications-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-medal fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ recommendations.title }}
+  </h2>
+
+  {% for recommendation in recommendations.list %}
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="cert-title">{{ recommendation.name }}</h3>
+        <div class="time">
+          {{ recommendation.start }} {% if recommendation.end %} - {{
+          recommendation.end }} {% endif %}
+        </div>
+      </div>
+      <!--//upper-row-->
+
+      <div class="second-upper-row">
+        <div class="cert-org">
+          {{ recommendation.organization }} {% if recommendation.credentialid %}
+          ({{ recommendation.credentialid }}) {% endif %}
+        </div>
+        {% if recommendation.credentialurl %}
+        <div class="cert-url">
+          <a
+            href="//{{ recommendation.credentialurl }}"
+            target="_blank"
+            rel="noreferrer nofollow noopener"
+            >{{ recommendation.credentialname }}</a
+          >
+        </div>
+        {% endif %}
+      </div>
+    </div>
+    <!--//meta-->
+
+    <div class="details">{{ recommendation.details | markdownify }}</div>
+  </div>
+  <!--//item-->
+  {% endfor %}
+</section>
+<!--//section-->
+{% endif %}
