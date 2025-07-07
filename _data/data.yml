@@ -91,123 +91,116 @@ education:
 experiences:
   title: Research Experiences
   info:
-  - title: Development of high-precision performance measurement technology and sports tracker utilizing integrated technology of precision GPS and inertial sensor
-    role: Lead Developer
-    link: "#https://github.com/Seongwoong-Hong/Behaviour-Classification"
+  - role: Algorithm Developer
+    time: 2024 - 2025
+    company: KAIST
+    title: Generation of athletic data and on-field monitoring for runners using biomechanics-machine learning
+    details: |
+      Developed a domain-knowledge-based AI model to estimate running performance and injury-related metrics from a single IMU sensor
+
+  - role: Lead Researcher
+    title: Development of reinforcement learning algorithm based on biomechanical characteristics to learn human energy-goal optimization strategies
+    time: 2023 - 2023
+    company: KAIST
+    details: |
+      Established an optimal control framework to model and analyze human motor control strategies based on reinforcement learning  
+
+  - role: Algorithm Developer
+    title: Development of high-precision performance measurement technology and sports tracker utilizing integrated technology of precision GPS and inertial sensor
     time: 2019 - 2020
     company: KAIST
     details: |
       Developed a multi-modal AI model for human activity classification
       in real-world environments, utilizing fused data from IMU and GPS sensors
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
+  - title: Behaviour Classification of Human
+    link: "#https://github.com/Seongwoong-Hong/Behaviour-Classification"
+    tagline: "Human behaviour classification using Machine Learning with IMU and GPS multimodal sensor information"
+
   - title: Teaching Assistant for Capstone Design Lecture at KAIST
     link: "#https://github.com/Seongwoong-Hong/KAIST_ME401_practice"
     tagline: "A basic practice for Python and Pytorch"
 
 publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: Biomechanical optimization and reinforcement learning provide insight into transition from ankle to hip strategy in human postural control
-    link: "https://doi.org/10.1038/s41598-025-97637-5"
-    authors: Seongwoong Hong, and Sukyung Park
-    conference: Scientific Reports, 2025
+  title: publications
+  sections:
+  - category_title: JOURNAL PUBLICATIONS
+    papers:
+    - title: Biomechanical optimization and reinforcement learning provide insight into transition from ankle to hip strategy in human postural control
+      link: "https://doi.org/10.1038/s41598-025-97637-5"
+      authors: Seongwoong Hong, and Sukyung Park
+      conference: Scientific Reports, 2025
 
-  title: International CONFERENCES
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: Learning Human Postural Strategies Reinforcement Learning Approach Incorporating a CoP Constraint
-    authors: Seongwoong Hong, and Sukyung Park
-    conference: International Society of Biomechanics, 2025, Oral Presentation
-    
-  - title: Emulating Human Postural Control Adjustment with perturbation using Quadratic Objective Function
-    authors: Seongwoong Hong, and Sukyung Park
-    conference: International Society of Biomechanics, 2023, Oral Presentation
-    
-  - title: Identifying the Objective of Human Behavior using Inverse Reinforcement Learning
-    authors: Seongwoong Hong, Jung Kim, and Sukyung Park
-    conference: International Society of Biomechanics, 2021, Poster Presentation
+  - category_title: INTERNATIONAL CONFERENCES
+    papers:
+    - title: Learning Human Postural Strategies Reinforcement Learning Approach Incorporating a CoP Constraint
+      authors: Seongwoong Hong, and Sukyung Park
+      conference: International Society of Biomechanics, 2025, Oral Presentation
+    - title: Emulating Human Postural Control Adjustment with perturbation using Quadratic Objective Function
+      authors: Seongwoong Hong, and Sukyung Park
+      conference: International Society of Biomechanics, 2023, Oral Presentation
+    - title: Identifying the Objective of Human Behavior using Inverse Reinforcement Learning
+      authors: Seongwoong Hong, Jung Kim, and Sukyung Park
+      conference: International Society of Biomechanics, 2021, Poster Presentation
 
-  title: domestic CONFERENCES
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Influence of Constraints on Human Control Strategy Transitions in Reinforcement Learning
-    authors: Seongwoong Hong, and Sukyung Park
-    conference: Korea Society of Mechanical Engineering, 2024, Oral Presentation
-    
-  - title: Postural Control Transition Learning Control Objective Priority Shifts induced by Constraints
-    authors: Seongwoong Hong, and Sukyung Park
-    conference: Korea Society of Biomechanics, 2024, Oral Presentation
-    
-  - title: Assessing the Contribution of Constraints to Postural Control Adjustment with Reinforcement Learning
-    authors: Seongwoong Hong, and Sukyung Park
-    conference: Korea Society of Mechanical Engineering - Biomechanics Section, 2024, Oral Presentation
+  - category_title: DOMESTIC CONFERENCES
+    papers:
+    - title: The Influence of Constraints on Human Control Strategy Transitions in Reinforcement Learning
+      authors: Seongwoong Hong, and Sukyung Park
+      conference: Korea Society of Mechanical Engineering, 2024, Oral Presentation
+    - title: Postural Control Transition Learning Control Objective Priority Shifts induced by Constraints
+      authors: Seongwoong Hong, and Sukyung Park
+      conference: Korea Society of Biomechanics, 2024, Oral Presentation
+    - title: Assessing the Contribution of Constraints to Postural Control Adjustment with Reinforcement Learning
+      authors: Seongwoong Hong, and Sukyung Park
+      conference: Korea Society of Mechanical Engineering - Bioengineering Section, 2024, Oral Presentation
+    - title: Learning by Doing? Mimicking Human Postural Control using Reinforcement Learning
+      authors: Seongwoong Hong, and Sukyung Park
+      conference: Korea Society of Biomechanics, 2023, Oral Presentation
+    - title: Predicting the Human Postural Strategy Change based on Optimal Control Incorporating Biomechanical Constraints
+      authors: Seongwoong Hong, and Sukyung Park
+      conference: Korea Society of Mechanical Engineering, 2023, Oral Presentation
+    - title: Reproducing Postural Control Adjustments by Qualifying Relative Importance of Stability and Control Effort
+      authors: Seongwoong Hong, and Sukyung Park
+      conference: Korea Society of Mechanical Engineering - Bioengineering Section, 2023, Oral Presentation
+    - title: Comparison of Foot Strike Pattern Classification during Running through Machine Learning of Single IMU Data
+      authors: Jinsung Jung, Seongwoong Hong, Young-Seong Lee, Sang-Kyoon Park, and Sukyung Park
+      conference: Korea Society of Biomechanics, 2022, Oral Presentation
+    - title: Interpretation of Trade-offs during Human Postural Control using Inverse RL
+      authors: Seongwoong Hong, and Sukyung Park
+      conference: Korea Society of Mechanical Engineering, 2022, Oral Presentation
+    - title: Foot strike pattern classification method during running through machine learning of lumbar IMU data
+      authors: Jinsung Jung, Seongwoong Hong, and Sukyung Park
+      conference: Korea Society of Mechanical Engineering, 2022, Poster Presentation
+    - title: Analyzing Human Postural Control by Learning Cost Function
+      authors: Seongwoong Hong, Sukyung Park, and Jung Kim
+      conference: Korea Society of Biomechanics 2021, Poster Presentation
 
-  - title: Learning by Doing? Mimicking Human Postural Control using Reinforcement Learning
-    authors: Seongwoong Hong, and Sukyung Park
-    conference: Korea Society of Biomechanics, 2023, Oral Presentation
-    
-  - title: Predicting the Human Postural Strategy Change based on Optimal Control Incorporating Biomechanical Constraints
-    authors: Seongwoong Hong, and Sukyung Park
-    conference: Korea Society of Mechanical Engineering, 2023, Oral Presentation
-    
-  - title: Reproducing Postural Control Adjustments by Qualifying Relative Importance of Stability and Control Effort
-    authors: Seongwoong Hong, and Sukyung Park
-    conference: Korea Society of Mechanical Engineering - Biomechanics Section, 2023, Oral Presentation
-    
-  - title: Comparison of Foot Strike Pattern Classification during Running through Machine Learning of Single IMU Data
-    authors: Jinsung Jung, Seongwoong Hong, Young-Seong Lee, Sang-Kyoon Park, and Sukyung Park
-    conference: Korea Society of Biomechanics, 2022, Oral Presentation
-    
-  - title: Interpretation of Trade-offs during Human Postural Control using Inverse RL
-    authors: Seongwoong Hong, and Sukyung Park
-    conference: Korea Society of Mechanical Engineering, 2022, Oral Presentation
-
-  - title: Foot strike pattern classification method during running through machine learning of lumbar IMU data
-    authors: Jinsung Jung, Seongwoong Hong, and Sukyung Park
-    conference: Korea Society of Mechanical Engineering, 2022, Poster Presentation
-    
-  - title: Analyzing Human Postural Control by Learning Cost Function
-    authors: Seongwoong Hong, Sukyung Park, and Jung Kim
-    conference: Korea Society of Biomechanics 2021, Poster Presentation
+recommendations:
+  title: Awards and Honors
+  list:
+  - name: Outstanding Paper Awards
+    start: 2024
+    organization: Korea Society of Biomechanics
+  - name: Outstanding Paper Awards
+    start: 2024
+    organization: Korea Society of Mechanical Engineering
+  - name: Outstanding Paper Awards
+    start: 2023
+    organization: Korea Society of Biomechanics
+  - name: Outstanding Paper Awards
+    start: 2022
+    organization: Korea Society of Biomechanics
+  - name: Outstanding Teaching Assistant Awards
+    start: 2019
+    organization: Department of Mehcanical Engineering, KAIST
+  - name: Graduation with honors, cum laude
+    start: 2019
+    organization: KAIST
 
 skills:
   title: Skills &amp; Proficiency
