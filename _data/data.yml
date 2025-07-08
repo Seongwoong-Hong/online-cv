@@ -91,6 +91,16 @@ education:
 experiences:
   title: Research Experiences
   info:
+  - role: Ph.D. Thesis
+    time: 2019 - 2025
+    company: KAIST
+    title: Optimization Characteristics of Human Upright Postural Control Transition via Reinforcement Learning
+    details: |
+      This research investigated adaptive human postural control, focusing on the ankle-hip strategy transition 
+      in response to environmental changes. A novel control model was developed using a reinforcement learning 
+      algorithm, framed as an optimization problem that incorporates key biomechanical constraints. The model 
+      successfully reproduced the adaptive control switching, demonstrating that complex motor strategies can 
+      emerge from the optimization of biomechanical goals.
   - role: Algorithm Developer
     time: 2024 - 2025
     company: KAIST
