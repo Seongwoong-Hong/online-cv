@@ -228,7 +228,7 @@ skills:
   - name: Physics Simulation (MuJoCo, Isaac Gym)
     level: 95%
 
-  - name: Experimental Biomechanics (Motion Capture, IMU, )
+  - name: Experimental Biomechanics (Motion Capture, IMU, EMG)
     level: 85%
 
 footer: >
