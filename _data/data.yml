@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Seongwoong Hong
-  tagline: Postdoctoral Researcher | Robotics, AI, Biomechanics
+  tagline: Research Fellow | Robotics, AI, Biomechanics
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -58,9 +58,9 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    A highly motivated Ph.D. candidate in Mechanical Engineering, graduating in August 2025,
-    specializing in the application of AI and reinforcement learning to robotics and biomechanics.
-    Proven experience in developing novel control systems by integrating real-world physical
+    A highly motivated recent Ph.D. graduate (August 2025) in Mechanical Engineering, specializing in 
+    the application of Machine Learning, particularly Reinforcement Learning, to robotics and biomechanics.
+    Experience in developing novel control systems by integrating real-world physical
     constraints into AI models, bridging the gap between theory and practical application.
     Actively seeking a postdoctoral research position to contribute to innovative projects at the
     intersection of AI-driven robotics and human-centered systems.
