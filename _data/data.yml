@@ -91,6 +91,12 @@ education:
 experiences:
   title: Research Experiences
   info:
+  - role: Research Fellow
+    time: 2025 - Present
+    company: KAIST
+    title: InnoCORE AI Co-Research & Education for Innovative Drug Institute
+    details: |
+      Developing an AI-driven automated system for brain cell differentiation that integrates image-based state recognition with robotic-controlled environmental regulation
   - role: Ph.D. Thesis
     time: 2019 - 2025
     company: KAIST
@@ -144,6 +150,9 @@ publications:
       link: "https://doi.org/10.1038/s41598-025-97637-5"
       authors: Seongwoong Hong, and Sukyung Park
       conference: Scientific Reports, 2025
+    - title: Torque-Constrained Reinforcement Learning for Human Postural Strategy Transition Modeling with Biomechanical Fidelity
+      authors: Seongwoong Hong, Joo H. Kim and Sukyung Park
+      conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering, Under Review
 
   - category_title: INTERNATIONAL CONFERENCES
     papers:
