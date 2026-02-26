@@ -156,6 +156,12 @@ publications:
 
   - category_title: INTERNATIONAL CONFERENCES
     papers:
+    - title: Emergence of Ankle-to-Hip Strategy Transition in Upright Posture via Reinforcement Learning with Biomechanical and Physiological Constraints
+      authors: Seongwoong Hong, and Sukyung Park
+      conference: World Congress of Biomechanics, 2026, Oral Presentation
+    - title: Development of an Automated Cell Differentiation System Integrating AI-Based State Recognition and Precision Environmental Control for Scalable Neural Cell Production
+      authors: Seongwoong Hong, Chanbeom Park and Jaesang Kim
+      conference: World Congress of Biomechanics, 2026, Oral Presentation
     - title: Learning Human Postural Strategies Reinforcement Learning Approach Incorporating a CoP Constraint
       authors: Seongwoong Hong, and Sukyung Park
       conference: International Society of Biomechanics, 2025, Oral Presentation
@@ -168,6 +174,9 @@ publications:
 
   - category_title: DOMESTIC CONFERENCES
     papers:
+    - title: Analysis of Age-Related Changes in Postural Control Characteristics using RL
+      authors: Geuna Park, Siwoo Jung, Sukyung Park and Seongwoong Hong
+      conference: Korea Society of Mechanical Engineering, 2025, Oral Presentation
     - title: The Influence of Constraints on Human Control Strategy Transitions in Reinforcement Learning
       authors: Seongwoong Hong, and Sukyung Park
       conference: Korea Society of Mechanical Engineering, 2024, Oral Presentation
