@@ -10,22 +10,22 @@ sidebar:
   # Profile information
   name: Seongwoong Hong
   tagline: Research Fellow | Robotics, AI, Biomechanics
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: seongwoong.hong@gmail.com
-  phone: 
+  phone:
   timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: 
+  website:
   linkedin: Seongwoong-Hong
-  xing: 
+  xing:
   github: Seongwoong-Hong
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: 
-  twitter: 
+  bluesky:
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -58,7 +58,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    A highly motivated recent Ph.D. graduate (August 2025) in Mechanical Engineering, specializing in 
+    A highly motivated recent Ph.D. graduate (August 2025) in Mechanical Engineering, specializing in
     the application of Machine Learning, particularly Reinforcement Learning, to robotics and biomechanics.
     Experience in developing novel control systems by integrating real-world physical
     constraints into AI models, bridging the gap between theory and practical application.
@@ -74,13 +74,13 @@ education:
       Humans exhibit complex control mechanisms involving adaptive strategy selection in response to environmental changes.
       Explaining this adaptive process is essential for understanding and predicting the principles of human movement.
       This study aims to demonstrate that such control adaptation during upright postural control can be explained
-      from the perspective of optimizing goals composed of relevant biomechanical elements. To this end, an optimization 
+      from the perspective of optimizing goals composed of relevant biomechanical elements. To this end, an optimization
       objective function incorporating biomechanical constraints was established, and a control model was developed and
       trained with a reinforcement-learning algorithm. This model successfully reproduced the control transition,
-      regulating ankle-hip strategy use according to perturbation magnitude. This demonstrates that adaptive strategy 
-      selection can emerge from the optimization of relevant biomechanical elements in response to environmental changes. 
-      Consequently, this study suggests that the control transition phenomenon observed in human systems, where appropriate 
-      strategies are selected based on the external environment, can be explained as a process of optimizing biomechanical 
+      regulating ankle-hip strategy use according to perturbation magnitude. This demonstrates that adaptive strategy
+      selection can emerge from the optimization of relevant biomechanical elements in response to environmental changes.
+      Consequently, this study suggests that the control transition phenomenon observed in human systems, where appropriate
+      strategies are selected based on the external environment, can be explained as a process of optimizing biomechanical
       goals and constraints.
   - degree: B.S. in Mechanical Engineering
     university: Korea Advanced Institute of Science and Technology
@@ -102,10 +102,10 @@ experiences:
     company: KAIST
     title: Optimization Characteristics of Human Upright Postural Control Transition via Reinforcement Learning
     details: |
-      This research investigated adaptive human postural control, focusing on the ankle-hip strategy transition 
-      in response to environmental changes. A novel control model was developed using a reinforcement learning 
-      algorithm, framed as an optimization problem that incorporates key biomechanical constraints. The model 
-      successfully reproduced the adaptive control switching, demonstrating that complex motor strategies can 
+      This research investigated adaptive human postural control, focusing on the ankle-hip strategy transition
+      in response to environmental changes. A novel control model was developed using a reinforcement learning
+      algorithm, framed as an optimization problem that incorporates key biomechanical constraints. The model
+      successfully reproduced the adaptive control switching, demonstrating that complex motor strategies can
       emerge from the optimization of biomechanical goals.
   - role: Algorithm Developer
     time: 2024 - 2025
@@ -119,7 +119,7 @@ experiences:
     time: 2023 - 2023
     company: KAIST
     details: |
-      Established an optimal control framework to model and analyze human motor control strategies based on reinforcement learning  
+      Established an optimal control framework to model and analyze human motor control strategies based on reinforcement learning
 
   - role: Algorithm Developer
     title: Development of high-precision performance measurement technology and sports tracker utilizing integrated technology of precision GPS and inertial sensor
@@ -174,6 +174,18 @@ publications:
 
   - category_title: DOMESTIC CONFERENCES
     papers:
+    - title: Reinforcement Learning Model for Human Postural Strategy Transition Incorporating Biomechanical Characteristics
+      authors: Seongwoong Hong
+      conference: Korea Society of Mechanical Engineering - Bioengineering Section, 2026, Oral Presentation
+    - title: Reinforcement Learning-Based Investigation of the Effects of Sensory Degradation on Postural Control in Older Adults
+      authors: Geuna Park, Siwoo Jung, Sukyung Park and Seongwoong Hong
+      conference: Korea Society of Mechanical Engineering - Bioengineering Section, 2026, Oral Presentation
+    - title: A Study on the Spatial Attention Characteristics of Deep Learning Architectures for Non-Destructive Cell Fate Prediction in Brain Cell Differentiation Robotic Automation Systems
+      authors: Seongwoong Hong, Chan Beom Park, Jaesang Kim, Sangyeong Kim, Doyeon Kim, Jessie S. Jeon, Hyung-Soon Park
+      conference: Korea Society of Chemistry, 2026, Poster Presentation
+    - title: Development of an Integrated Robotic System for Automated Cell Production
+      authors: Chan Beom Park, Seongwoong Hong, Jaesang Kim, Sangyeong Kim, Doyeon Kim, Jessie S. Jeon, Hyung-Soon Park
+      conference: Korea Society of Chemistry, 2026, Poster Presentation
     - title: Analysis of Age-Related Changes in Postural Control Characteristics using RL
       authors: Geuna Park, Siwoo Jung, Sukyung Park and Seongwoong Hong
       conference: Korea Society of Mechanical Engineering, 2025, Oral Presentation
@@ -211,6 +223,9 @@ publications:
 recommendations:
   title: Awards and Honors
   list:
+  - name: Outstanding Paper Awards
+    start: 2026
+    organization: Korea Society of Mechanical Engineering
   - name: Outstanding Paper Awards
     start: 2024
     organization: Korea Society of Biomechanics
